@@ -26,7 +26,7 @@ public class Main {
         double weight = 50.5;
 
         // print nama sebanyak 10 baris
-//        System.out.println("Ujang");
+        System.out.println("Ujang");
 
         //do while
         int index = 1;
@@ -62,3 +62,12 @@ public class Main {
 // git add . - nambah semua file ke git local
 // git commit -m "pesan commit"
 // git push origin [branch] sementara ke - [master]
+
+// Buat aplikasi sederhana yang menampilkan
+// looping 1 - 15
+// kalo ganjil ouput: "Fizz"
+// Kalo genap output: "Buzz"
+// kalo 15 output: "Fizz Buzz"
+
+//push ke github.
+//share link ke wa! kalo udah.
