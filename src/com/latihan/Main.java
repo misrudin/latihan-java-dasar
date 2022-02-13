@@ -57,3 +57,8 @@ public class Main {
 // git config --global user.name ""
 // git config --global user.email ""
 // git config --global user.password ""
+// git init - inisisai git di folder project
+// git remote add - ada github
+// git add . - nambah semua file ke git local
+// git commit -m "pesan commit"
+// git push origin [branch] sementara ke - [master]
